@@ -3,7 +3,7 @@
 ## Event summary
 
 - Campus Connect is a half-day event for new and current students to meet each other.
-- Planned for a weekday afternoon so more students can join after class.
+- Planned for a weekday afternoon, roughly 2pm to 6pm, so more students can join after class.
 - Aim for around 30 to 50 students.
 - Free to attend, with registration done online beforehand.
 
