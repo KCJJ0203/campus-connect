@@ -10,4 +10,4 @@ Bring students together through a welcoming campus event.
 
 ## Planning documents
 
-The group will add its planning documents during the practical. 
+The group will add its planning documents during the practical. ..
