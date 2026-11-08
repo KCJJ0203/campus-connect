@@ -4,7 +4,7 @@
 
 | Time | Activity | Planning note |
 | --- | --- | --- |
-| 2:00–2:20 pm | Welcome and registration | Greet attendees, check registrations and provide a simple event schedule. |
+| 2:00–2:20 pm | Welcome and check-in | Greet attendees, check them against the online registration list and provide a simple event schedule. |
 | 2:20–2:35 pm | Opening and introductions | Explain the event, the activities and where to get help. |
 | 2:35–3:05 pm | Small-group icebreaker | Mix new and current students in groups of about five. |
 | 3:05–3:15 pm | Transition and water break | Allow time to move between activities. |
@@ -17,8 +17,8 @@
 ## Running the activities
 
 - Plan for roughly 30–50 students, as suggested in the event overview.
-- Prepare the group list and clue sheets before registration opens.
-- Give clear directions and offer an indoor or seated alternative to the campus challenge.
+- Prepare the check-in list, group list and clue sheets before attendees arrive.
+- Give clear directions for the campus challenge. If rain makes the route unsuitable, run a seated clue-sheet version in the main event room; confirm that the room is available for this before the event.
 - Ask one volunteer to keep time and announce each transition.
 - Keep the closing activity flexible if earlier activities run late.
 
@@ -26,4 +26,4 @@
 
 - Assumption: the event runs from approximately 2:00 to 6:00 pm on a weekday.
 - Which campus locations can the group use for the discovery challenge?
-- How many volunteers will be available to guide groups and cover registration?
+- Can the main event room accommodate the indoor alternative, and how many volunteers will be available to guide groups and cover check-in?
