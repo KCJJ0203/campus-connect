@@ -8,4 +8,4 @@
 - **Club Announcements (1 week prior):** Coordinate with student clubs to share event announcements, posters, and sign-up links across their official group chats.
 
 ## Questions for Discussion
-- Which social media platforms are most effective for reaching our target student audience?
+- Which social media platforms are most effective for reaching our target student audience
