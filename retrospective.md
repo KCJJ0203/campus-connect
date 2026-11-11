@@ -20,11 +20,11 @@ Each member fills in their own section. Keep it short and specific.
 
 ## Member 3 - YiXian
 
-- One Git task I can now complete independently:
-- One useful review comment I gave or received:
-- One improvement I made after feedback:
-- One conflict I resolved and how I decided the final content:
-- One Git skill I would like to practise further:
+- One Git task I can now complete independently:** Creating a personal work branch, staging and committing changes, and pushing them to GitHub.
+- One useful review comment I gave or received:** Received feedback recommending consistent table formatting and clearer file headers across documentation.
+- One improvement I made after feedback:** Standardized markdown headers and fixed typos in the event summary section.
+- One conflict I resolved and how I decided the final content:** In event.md, main already listed Team coordinator, Member 1, Member 2, and Member 3, so I kept all existing entries and added Member 4 to preserve everyone's contributions.
+- One Git skill I would like to practise further:** Resolving complex multi-file merge conflicts safely.
 
 ## Member 4 - Dani
 
