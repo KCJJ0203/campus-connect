@@ -12,11 +12,11 @@ Each member fills in their own section. Keep it short and specific.
 
 ## Member 2 - Iggy
 
-- One Git task I can now complete independently:
-- One useful review comment I gave or received:
-- One improvement I made after feedback:
-- One conflict I resolved and how I decided the final content:
-- One Git skill I would like to practise further:
+- One Git task I can now complete independently: Check my branch, make a focused commit, push it, and update a PR.
+- One useful review comment I gave or received: On PR #6, I suggested a shared registration link or QR code and a clearer promotion timeline.
+- One improvement I made after feedback: On PR #4, I changed registration to check-in and named the main event room as the rain backup after KC's review.
+- One conflict I resolved and how I decided the final content: In event.md, main already listed the coordinator and Member 1, so I kept them and added Member 2.
+- One Git skill I would like to practise further: Resolve merge conflicts and check the staged diff confidently without assistance.
 
 ## Member 3 - YiXian
 
