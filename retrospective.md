@@ -31,5 +31,5 @@ Each member fills in their own section. Keep it short and specific.
 - One Git task I can now complete independently: Merging `origin/main` into my own branch, checking the result, and pushing it before my PR is merged.
 - One useful review comment I gave or received: My reviewer suggested linking the Logistics and Budget sections to our Programme and Overview, like planning food and name tags for 30-50 people and adding cleanup for the 5:45 tidy-up.
 - One improvement I made after feedback: I updated both sections to match the Programme and Overview, adding the rain backup room, check-in volunteers, clue sheet printing, and cleanup.
-- One conflict I resolved and how I decided the final content: 
+- One conflict I resolved and how I decided the final content: In event.md main already had Team coordinator, Member 1, Member 2, Member 3, so I kept all of them and added Member 4
 - One Git skill I would like to practise further: Resolving merge conflicts confidently without losing anyone's work.
